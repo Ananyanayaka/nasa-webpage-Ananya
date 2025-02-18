@@ -14,9 +14,10 @@ function SectionTwo() {
       </button>
       {isOpen && (
         <div className="dropdown">
+          <p>Click on the links below to explore the APIs:</p>
           <ul>
             <li><a href="https://nasa-frontend-apod.vercel.app/">APOD</a></li>
-            <li><a href="https://vercelananyanasa.vercel.app/">NASA Image & Video Library</a></li>
+            <li><a href="https://vercelananyanasa.vercel.app/">NASA Image Library</a></li>
           </ul>
         </div>
       )}
