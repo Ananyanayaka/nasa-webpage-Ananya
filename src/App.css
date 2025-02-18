@@ -1,0 +1,150 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Set up background image */
+.App {
+  display: flex;
+  background-image: url('./assets/background-image.jpg');
+  background-size: cover;
+  height: 100vh;
+  overflow: hidden; /* Prevents overflow caused by the sidebar */
+}
+
+/* Sidebar Styles */
+.sidebar {
+  width: 200px;
+  background-color: rgba(0, 0, 0, 0.8); /* Black background with transparency */
+  color: white;
+  padding: 20px;
+  position: fixed;
+  height: 100%;
+  top: 0;
+  z-index: 100;
+}
+
+.sidebar-header {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.sidebar-header h2 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.sidebar-header p {
+  font-size: 14px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+nav ul li {
+  margin: 20px 0;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+}
+
+nav ul li a:hover {
+  color: #d1d1d1;
+}
+
+nav ul li a svg {
+  margin-right: 10px;
+}
+
+/* Main content styles */
+.main-content {
+  margin-left: 250px;
+  padding: 20px;
+  color: white;
+  width: 100%;
+}
+
+/* Section Styles */
+h3 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.section-one, .section-two {
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+.section-one p, .section-two ul {
+  font-size: 18px;
+}
+
+ul li {
+  margin: 10px 0;
+}
+
+ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: #d1d1d1;
+}
+
+/* Dropdown Styles */
+button {
+  background-color: #444;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 15px;
+  width: 100%;
+  text-align: left;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+.dropdown {
+  margin-top: 10px;
+  display: block;
+}
+
+.dropdown ul {
+  list-style: none;
+  padding: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.dropdown li {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.dropdown li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.dropdown li a:hover {
+  color: #d1d1d1;
+  text-decoration: underline;
+}
