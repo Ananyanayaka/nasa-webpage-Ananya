@@ -28,11 +28,12 @@ You can access the live versions of the apps here:
 
 - **Main Web (Landing Page)**: [Main Web on Vercel](https://nasa-webpage-ananya.vercel.app)
 - **Web1 (APOD)**:
-  - **Frontend**: [APOD Frontend on Vercel](https://vercel.com/ananya-krishnamurthy-nayakas-projects/nasa-frontend-apod)
-  - **Backend**: [APOD Backend on Heroku](https://dashboard.heroku.com/apps/nasa-backend-ananya)
+  - **Frontend**: [APOD Frontend on Vercel](https://nasa-frontend-apod.vercel.app/)
+  - **Backend**: [APOD Backend on Heroku](https://nasa-backend-ananya-8a0f587afdfc.herokuapp.com/)
 - **Web2 (NASA Image & Video Library)**:
-  - **Frontend**: [NASA Image & Video Frontend on Vercel](https://vercel.com/ananya-krishnamurthy-nayakas-projects/vercel_ananya_nasa)
-  - **Backend**: [NASA Image & Video Backend on Heroku](https://dashboard.heroku.com/apps/nasa-api-media)
+  - **Frontend**: [NASA Image & Video Frontend on Vercel](https://vercelananyanasa.vercel.app/)
+  - **Backend**: [NASA Image & Video Backend on Heroku](https://nasa-api-media-cbc610ffccef.herokuapp.com/)
+
 
 ---
 
