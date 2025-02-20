@@ -105,7 +105,7 @@ You can access the live versions of the apps here:
 
 - **Main Web**: Visit the homepage where you’ll find two clickable links:
   - **APOD (Web1)** – Takes you to the app displaying the Astronomy Picture of the Day (APOD).
-  - **NASA Image Library (Web2)** – Takes you to the app where you can search NASA’s image and video library.
+  - **NASA Image Library (Web2)** – Takes you to the app where you can search NASA’s image  library.
 
 
 ---
