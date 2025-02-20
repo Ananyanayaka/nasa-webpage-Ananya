@@ -3,15 +3,15 @@
 ## Overview
 **Main Web**(nasa-webpage-Ananya) is a landing page that provides users with easy access to two exciting space exploration apps built using NASA's Open APIs.
 
-- **Web1 (APOD App)**: Displays the Astronomy Picture of the Day (APOD) from NASA, showcasing beautiful images and detailed descriptions.
-- **Web2 (NASA Image  Library)**: Allows users to search and view images from NASA’s extensive library.
+- **APOD App**: Displays the Astronomy Picture of the Day (APOD) from NASA, showcasing beautiful images and detailed descriptions.
+- **NASA Image  Library**: Allows users to search and view images from NASA’s extensive library.
 
-This **Main Web** project serves as a simple React frontend that links to **Web1** and **Web2**. It is deployed on **Vercel** and provides a seamless navigation experience between both applications.
+This **Main Web** project serves as a simple React frontend that links to **APOD App**and **NASA Image  Library**. It is deployed on **Vercel** and provides a seamless navigation experience between both applications.
 
 ---
 
 ## Features
-- **Interactive Landing Page**: A clean and simple design to direct users to **Web1** (APOD App) and **Web2** (NASA Image Library).
+- **Interactive Landing Page**: A clean and simple design to direct users to APOD App and NASA Image Librar.
 - **Easy Navigation**: Clear links and buttons to quickly access both space exploration applications.
 
 ---
@@ -27,10 +27,10 @@ This **Main Web** project serves as a simple React frontend that links to **Web1
 You can access the live versions of the apps here:
 
 - **Main Web (Landing Page)**: [Main Web on Vercel](https://nasa-webpage-ananya.vercel.app)
-- **Web1 (APOD)**:
+- ****APOD App**:
   - **Frontend**: [APOD Frontend on Vercel](https://nasa-frontend-apod.vercel.app/)
   - **Backend**: [APOD Backend on Heroku](https://nasa-backend-ananya-8a0f587afdfc.herokuapp.com/)
-- **Web2 (NASA Image & Video Library)**:
+- **NASA Image Library**:
   - **Frontend**: [NASA Image  Frontend on Vercel](https://vercelananyanasa.vercel.app/)
   - **Backend**: [NASA Image Backend on Heroku](https://nasa-api-media-cbc610ffccef.herokuapp.com/)
 
@@ -40,10 +40,10 @@ You can access the live versions of the apps here:
 ## GitHub Repositories
 
 - **Main Web (Frontend)**: [Main Web GitHub Repository](https://github.com/Ananyanayaka/nasa-webpage-Ananya)
-- **Web1 (APOD App)**:
+- **APOD App**:
   - **Frontend**: [APOD Frontend GitHub Repository](https://github.com/Ananyanayaka/nasa-FRONTEND-APOD)
   - **Backend**: [APOD Backend GitHub Repository](https://github.com/Ananyanayaka/nasa-app-Backend-APOD)
-- **Web2 (NASA Image Library)**:
+- **NASA Image Library**:
   - **Frontend**: [NASA Image Frontend GitHub Repository](https://github.com/Ananyanayaka/-Vercel_NASA_frontend)
   - **Backend**: [NASA Image Backend GitHub Repository](https://github.com/Ananyanayaka/Heroku_server_node)
 
