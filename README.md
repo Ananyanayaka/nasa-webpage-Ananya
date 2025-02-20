@@ -16,10 +16,6 @@ This **Main Web** project serves as a simple React frontend that links to **APOD
 
 ---
 
-## Tech Stack
-- **Frontend**: React.js
-- **Deployment**: Vercel (for the Main Web,Web1 and Web2), Heroku (for Web1 and Web2)
-
 ---
 
 ## Live Demo
